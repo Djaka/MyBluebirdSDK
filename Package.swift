@@ -14,7 +14,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MyBluebirdSDK",
-            url: "https://drive.google.com/uc?export=download&id=1nMFdEDgVBnlTKUJkQnOkepSM9jEAh0F_",
+            url: "https://github.com/Djaka/MyBluebirdSDK/releases/download/v1.0.0/MyBluebirdSDK.xcframework.zip",
             checksum: "450109cf554fbb8d34a154df01dd1145c493ab62fb1762fd766684e91970e4f5"
         )
     ]
