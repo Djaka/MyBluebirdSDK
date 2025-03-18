@@ -7,7 +7,7 @@ let package = Package(
     products: [
         .library(
             name: "MyBluebirdSDK",
-            targets: ["MyBluebirdSDK", "MyBluebirdSDKResources"]
+            targets: ["MyBluebirdSDK"]
         ),
     ],
     dependencies: [],
