@@ -18,7 +18,7 @@ let package = Package(
             checksum: "450109cf554fbb8d34a154df01dd1145c493ab62fb1762fd766684e91970e4f5"
         ),
         .target(
-            name: "MyBluebirdSDK",
+            name: "MyBluebirdSDKTarget",
             path: "compose-resources",
             resources: [
                 .copy("composeResources")
